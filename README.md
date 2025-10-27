@@ -69,7 +69,7 @@ The backend of SmartCare is built using **Node.js & Express**, structured to man
 
 <img width="1508" height="832" alt="image" src="https://github.com/user-attachments/assets/d4e5483a-52e8-4969-8597-c230d09fa5a7" />
 
-<img width="825" height="460" alt="image" src="https://github.com/user-attachments/assets/a0bfaf38-f878-45a5-b491-599927e4333f" />
+<img width="1504" height="804" alt="image" src="https://github.com/user-attachments/assets/a51a7326-ba92-4b3d-9518-63b798ea7d05" />
 
 <img width="1497" height="804" alt="image" src="https://github.com/user-attachments/assets/05a279ef-56a3-4c2b-b123-8893399b8b17" />
 
